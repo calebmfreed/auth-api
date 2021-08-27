@@ -1,0 +1,7 @@
+{
+  "name": "auth-api",
+  "version": "1.0.0",
+  "description": "Approves transactions or not",
+  "main": "index.js",
+  "license": "MIT"
+}
